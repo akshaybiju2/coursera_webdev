@@ -1,6 +1,6 @@
 body {
 
-	background: green;
+	background: gray;
 
 }
 
@@ -31,4 +31,15 @@ p {
 	font-family : sans-serif;
 
 
+}
+
+.indent{
+
+	margin-left: 20px;
+}
+
+.violetlink:hover{
+
+	color: violet;
+	
 }
