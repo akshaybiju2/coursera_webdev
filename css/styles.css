@@ -6,6 +6,13 @@
 
 	}
 
+	.responsive {
+
+		display: inline-block;
+		width: 250px;
+		border: 1px solid black;
+	}
+
 }
 
 @media (max-width: 499px) {
@@ -17,6 +24,7 @@
 	}
 
 }
+
 
 
 a {
