@@ -1,4 +1,23 @@
 body {
 
 	background: green;
+
+}
+
+h1 {
+
+	font-family: serif;
+	font-size: 25pt;
+}
+
+h2 {
+
+	font-family: sans-serif;
+}
+
+p {
+
+	font-family : sans-serif;
+
+
 }
