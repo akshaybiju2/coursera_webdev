@@ -4,6 +4,17 @@ body {
 
 }
 
+a {
+
+	text-decoration: none;
+}
+
+a:hover{
+
+	color : yellow;
+	
+}
+
 h1 {
 
 	font-family: serif;
